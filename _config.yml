@@ -1,4 +1,4 @@
-title: S2C2 - IME
+# title: S2C2 - IME
 # description: Not that easy
 theme: just-the-docs
 
@@ -6,6 +6,7 @@ url: https://jcctesolin.github.io/jtdocs.github.io/
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/img/s2c2logo.png"
+search_enabled: false
 
 
 # aux_links:
