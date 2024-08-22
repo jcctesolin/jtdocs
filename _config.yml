@@ -1,11 +1,11 @@
-# title: Projeto Sistemas de Sistemas de Comando e Controle
+title: S2C2 - IME
 # description: Not that easy
 theme: just-the-docs
 
 url: https://jcctesolin.github.io/jtdocs.github.io/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/img/s2c2logo.png"
+logo: "https://github.com/jcctesolin/jtdocs.github.io/blob/main/img/s2c2logo.png"
 
 
 # aux_links:
