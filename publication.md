@@ -1,5 +1,6 @@
 ---
 title: Publicações
+layout: default
 nav_order: 3
 ---
 
