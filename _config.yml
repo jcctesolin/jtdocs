@@ -7,7 +7,7 @@ url: https://jcctesolin.github.io/jtdocs.github.io/
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/img/s2c2logo.png"
 search_enabled: false
-
+color_scheme: s2c2
 
 # aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
